@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVG-Edit Drawing</title>
+</head>
+<body>
+    <iframe src="https://svg-edit.github.io/svgedit/releases/svg-edit-6.1.0/editor/svg-editor.html" width="800" height="600" frameborder="0"></iframe>
+</body>
+</html>
